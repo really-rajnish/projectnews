@@ -1,1 +1,0 @@
-import{j as o,L as n}from"./index-DjYFRiRS.js";const e=()=>o.jsxs("div",{className:"not-found",children:[o.jsx("h1",{children:"404"}),o.jsx("p",{children:"Page not found"}),o.jsx(n,{to:"/",children:"Go Home"})]});export{e as default};
